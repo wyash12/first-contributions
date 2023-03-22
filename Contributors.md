@@ -1,5 +1,6 @@
   # Contributors
 <!-- prettier-ignore-start -->
+- [Yash Wankhede](http://github.com/wyash12)
 - [Shaquib Khan] (https://github.com/Shaquibcode01)
 - [Aravindan 🕺🏽](https://github.com/RAravindDS)
 - Ishita
